@@ -1,0 +1,15 @@
+D:\KampIntro\KampIntro\MyDictionary\bin\Debug\net6.0\MyDictionary.exe
+D:\KampIntro\KampIntro\MyDictionary\bin\Debug\net6.0\MyDictionary.deps.json
+D:\KampIntro\KampIntro\MyDictionary\bin\Debug\net6.0\MyDictionary.runtimeconfig.json
+D:\KampIntro\KampIntro\MyDictionary\bin\Debug\net6.0\MyDictionary.dll
+D:\KampIntro\KampIntro\MyDictionary\bin\Debug\net6.0\MyDictionary.pdb
+D:\KampIntro\KampIntro\MyDictionary\obj\Debug\net6.0\MyDictionary.csproj.AssemblyReference.cache
+D:\KampIntro\KampIntro\MyDictionary\obj\Debug\net6.0\MyDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\KampIntro\KampIntro\MyDictionary\obj\Debug\net6.0\MyDictionary.AssemblyInfoInputs.cache
+D:\KampIntro\KampIntro\MyDictionary\obj\Debug\net6.0\MyDictionary.AssemblyInfo.cs
+D:\KampIntro\KampIntro\MyDictionary\obj\Debug\net6.0\MyDictionary.csproj.CoreCompileInputs.cache
+D:\KampIntro\KampIntro\MyDictionary\obj\Debug\net6.0\MyDictionary.dll
+D:\KampIntro\KampIntro\MyDictionary\obj\Debug\net6.0\refint\MyDictionary.dll
+D:\KampIntro\KampIntro\MyDictionary\obj\Debug\net6.0\MyDictionary.pdb
+D:\KampIntro\KampIntro\MyDictionary\obj\Debug\net6.0\MyDictionary.genruntimeconfig.cache
+D:\KampIntro\KampIntro\MyDictionary\obj\Debug\net6.0\ref\MyDictionary.dll
